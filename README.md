@@ -19,7 +19,7 @@ Este repositório contém os notebooks e materiais da disciplina de **Mineraçã
 
 ### 🔧 Semana 2 – Pré-processamento e Transformação de Dados
 
-- 📂 **Notebook:** [`Indisponivel`](URL)
+- 📂 **Notebook:** [`Aula_02_Pre_Processamento.ipynb`](URL)
 
 #### Conteúdos:
 - Limpeza de dados
