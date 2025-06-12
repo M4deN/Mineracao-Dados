@@ -31,7 +31,7 @@ Este repositório contém os notebooks e materiais da disciplina de **Mineraçã
 
 ### 🔍 Semana 3 – Classificação com Naive Bayes e KNN
 
-- 📂 **Notebook:** *(em breve)*
+- 📂 **Notebook:** [`Aula_03_Classificacao_Regras_KNN_NaiveBayes.ipynb`](URL)
 
 #### Conteúdos:
 - Algoritmos de classificação supervisionada
